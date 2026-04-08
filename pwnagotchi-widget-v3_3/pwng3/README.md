@@ -1,3 +1,5 @@
+# REMEMBER, IT DOESN´t WORK JET
+
 # Pwnagotchi → Garmin Fenix 8 Widget
 
 ## Ordnerstruktur
