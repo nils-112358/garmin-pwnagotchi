@@ -1,0 +1,19 @@
+project.manifest = manifest.xml
+
+base.sourcePath   = source
+base.resourcePath = resources
+
+fenix843mm.sourcePath      = $(base.sourcePath)
+fenix843mm.resourcePath    = $(base.resourcePath)
+
+fenix847mm.sourcePath      = $(base.sourcePath)
+fenix847mm.resourcePath    = $(base.resourcePath)
+
+fenix8pro47mm.sourcePath   = $(base.sourcePath)
+fenix8pro47mm.resourcePath = $(base.resourcePath)
+
+fenix8solar47mm.sourcePath   = $(base.sourcePath)
+fenix8solar47mm.resourcePath = $(base.resourcePath)
+
+fenix8solar51mm.sourcePath   = $(base.sourcePath)
+fenix8solar51mm.resourcePath = $(base.resourcePath)
