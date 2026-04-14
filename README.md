@@ -1,4 +1,4 @@
-# REMEMBER ONLY THE hfr_ble.py plugin works, plz read the instructions in the file, and follow them, thanks THE REST DOESN'T WORK!!
+# REMEMBER ONLY THE ble_hrm.py plugin works, plz read the instructions in the file, and follow them, thanks THE REST DOESN'T WORK!!
 
 # Pwnagotchi → Garmin Fenix 8 Widget
 
