@@ -1,5 +1,6 @@
 # REMEMBER ONLY THE ble_hrm.py plugin works, plz read the instructions in the file, and follow them, thanks THE REST DOESN'T WORK!!
 
+#Ignore everything from here on in the readme
 # Pwnagotchi → Garmin Fenix 8 Widget
 
 ## Ordnerstruktur
